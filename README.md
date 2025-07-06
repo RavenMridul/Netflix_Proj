@@ -1,2 +1,2 @@
 # Netflix_Proj
-Netflix Visulizaion
+Netflix Data manipulation
